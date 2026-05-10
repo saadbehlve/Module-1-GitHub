@@ -1,0 +1,9 @@
+print("MUHAMMAD SAAD")
+print("Mechatronics Engineer")
+print("Belongs to Shujabad, District Multan.")
+
+#number sorting
+numbers = [7, 3, 9, 1, 5]
+print("Original list:", numbers)
+sorted_numbers = sorted(numbers)
+print("Sorted list:", sorted_numbers)
